@@ -93,3 +93,14 @@ ol a:hover{
 footer div{
   text-align:center;
 }
+p{
+  text-align: center;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+}
+ol {
+  display: table;
+  margin: 0 auto;
+}
