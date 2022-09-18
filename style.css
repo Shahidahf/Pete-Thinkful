@@ -98,10 +98,10 @@ p{
   margin-left: 320px;
 }
 ul {
-  display: table;
-  margin: 0 auto;
+  margin-right: 320px;
+  margin-left: 320px;
 }
 ol {
-  display: table;
-  margin: 0 auto;
+ margin-right: 320px;
+  margin-left: 320px;
 }
