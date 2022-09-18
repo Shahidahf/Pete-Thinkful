@@ -24,6 +24,10 @@ article div {
   width: 100%;
 }
 
+footer{
+  text-align: center;
+}
+
 p {
   line-height: 1.5;
 }
