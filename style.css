@@ -83,17 +83,17 @@ nav{
 
 ol a{
   color: #d62828;
+  
 }
 
 ol a:hover{
   color: #f77f00;
 }
  
-}
-footer div{
-  text-align:center;
-}
+
+
 p{
+  
   margin-right: 320px;
   margin-left: 320px;
 }
@@ -102,6 +102,6 @@ ul {
   margin-left: 320px;
 }
 ol {
- margin-right: 320px;
+  margin-right: 320px;
   margin-left: 320px;
 }
